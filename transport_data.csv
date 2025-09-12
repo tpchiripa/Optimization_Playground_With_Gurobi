@@ -1,0 +1,7 @@
+Warehouse,Store,Cost,Supply,Demand
+W1,S1,2,100,50
+W1,S2,4,,60
+W1,S3,5,,70
+W2,S1,3,80,
+W2,S2,2,,
+W2,S3,6,,
