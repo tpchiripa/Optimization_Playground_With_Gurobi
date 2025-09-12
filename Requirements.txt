@@ -1,7 +1,6 @@
 streamlit
 pandas
 altair
-gurobipy
+pulp
 openpyxl
 joblib
-pulp
