@@ -3,6 +3,6 @@ pandas
 altair
 gurobipy
 openpyxl
-joblib
+joblib==1.3.2
 pulp
 plotly
